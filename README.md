@@ -20,6 +20,7 @@ Simple tutorial
   2. Get your OpenAI API Key
   3. Put your API Key into the main.py
   4. Run the project
+  5. IF THERE IS NOT "archives" FOLDER CREATE IT
 ```
 
 # Reminder
