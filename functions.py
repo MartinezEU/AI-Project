@@ -46,7 +46,7 @@ def load_ai_config(file_path):
 
 # Get weather updates
 def get_weather(location="Prague"):
-    api_key = "3df88748e5d0ddcbd967144544ce3ecb"
+    api_key = ""
     base_url = f"http://api.openweathermap.org/data/2.5/weather?q={location}&appid={api_key}"
     response = requests.get(base_url).json()
 
